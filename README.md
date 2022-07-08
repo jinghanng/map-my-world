@@ -6,8 +6,8 @@ Adaptive Monte Carlo Localization Project
 To run the project, use the following command in the terminal:
 
 $ cd catkin_ws/
-$ source devel/setup.bash
-$ roslaunch my_robot world.launch
+source devel/setup.bash
+roslaunch my_robot world.launch
 
 In a second terminal, run the following:
 
