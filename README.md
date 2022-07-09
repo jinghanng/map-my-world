@@ -1,4 +1,4 @@
-# where-am-i
+# Map my world
 Robotic Software Engineering Localization
 
 Adaptive Monte Carlo Localization Project
